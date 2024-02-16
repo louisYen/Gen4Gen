@@ -12,8 +12,12 @@ By [Chun-Hsiao Yeh*](https://danielchyeh.github.io/), [Ta-Ying Cheng*](https://t
 
 This repo is the official implementation of "**Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition**".
 
-[![How Gen4Gen Works](https://danielchyeh.github.io/Gen4Gen/static/images/figure_teaser.png)](https://danielchyeh.github.io/Gen4Gen/static/images/gen4gen_video.mp4)
-
+<br>
+<div class="gif">
+<p align="center">
+<img src='assets/CVPR24-Gen4Gen-animation-HowItWorks.gif' align="center" width=800>
+</p>
+</div>
 
 ## 📝 Updates
 
