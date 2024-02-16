@@ -15,7 +15,7 @@ This repo is the official implementation of "**Gen4Gen: Generative Data Pipeline
 <br>
 <div class="gif">
 <p align="center">
-<img src='assets/CVPR24-Gen4Gen-animation-HowItWorks.gif' align="center" width=800>
+<img src='./assets/CVPR24-Gen4Gen-animation-HowItWorks.gif' align="center" width=800>
 </p>
 </div>
 
