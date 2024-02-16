@@ -4,7 +4,7 @@
 <a href=""><img src="https://img.shields.io/static/v1?label=Paper&message=Link&color=green" height=20.5></a>
 <a href=""><img src="https://img.shields.io/static/v1?label=Project&message=Video&color=red" height=20.5></a>
 
-By [Chun-Hsiao Yeh](https://danielchyeh.github.io/)*, [Ta-Ying Cheng](https://ttchengab.github.io/)*, [He-Yen Hsieh*](https://www.linkedin.com/in/he-yen-hsieh/), [Chuan-En Lin](https://chuanenlin.com/), [Yi Ma](https://people.eecs.berkeley.edu/~yima/), [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/), [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/), [H.T. Kung](https://www.eecs.harvard.edu/htk/), [Yubei Chen](https://yubeichen.com/) ( * equal contribution)
+By [Chun-Hsiao Yeh*](https://danielchyeh.github.io/), [Ta-Ying Cheng*](https://ttchengab.github.io/), [He-Yen Hsieh*](https://www.linkedin.com/in/he-yen-hsieh/), [Chuan-En Lin](https://chuanenlin.com/), [Yi Ma](https://people.eecs.berkeley.edu/~yima/), [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/), [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/), [H.T. Kung](https://www.eecs.harvard.edu/htk/), [Yubei Chen](https://yubeichen.com/) ( * equal contribution)
 
 > UC Berkeley, University of Oxford, Harvard University, CMU, HKU, UC Davis
 
