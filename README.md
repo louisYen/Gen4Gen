@@ -19,3 +19,22 @@ This repo is the official implementation of "**Gen4Gen: Generative Data Pipeline
 
 ## 📬 How to Get Support?
 If you have any general questions or need support, please feel free to contact: [Chun-Hsiao Yeh](mailto:daniel_yeh@berkeley.edu), [Ta-Ying Cheng](mailto:taying.cheng@gmail.com) and [He-Yen Hsieh](mailto:m10502103@gmail.com). Also, we encourage you to open an issue in the GitHub repository. By doing so, you not only receive support but also contribute to the collective knowledge base for others who may have similar inquiries.
+
+## :heart: <a name="11"></a> Citation
+If you find the codebase and MyCanvas dataset valuable and utilize it in your work, we kindly request that you consider giving our GitHub repository a ⭐ and citing our paper.
+```
+@article{YehCHLMMTKC24
+  author    = {Chun-Hsiao Yeh and
+               Ta-Ying Cheng and
+               He-Yen Hsieh and
+               David Chuan-En Lin and
+               Yi Ma and
+               Andrew Markham and
+               Niki Trigoni and
+               H.T. Kung and
+               Yubei Chen},
+  title     = {Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition},
+  journal   = {CoRR},
+  year      = {2024},
+}
+```
