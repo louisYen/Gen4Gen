@@ -8,7 +8,7 @@ By [Chun-Hsiao Yeh*](https://danielchyeh.github.io/), [Ta-Ying Cheng*](https://t
 
 > UC Berkeley, University of Oxford, Harvard University, CMU, HKU, UC Davis
 
-###### tags: `stable diffusion` `personalized text-to-image generation` `image generation`
+###### tags: `stable diffusion` `personalized text-to-image generation` `llm`
 
 This repo is the official implementation of "**Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition**".
 
