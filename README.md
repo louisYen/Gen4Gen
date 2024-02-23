@@ -1,4 +1,4 @@
-# 🌅 Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition
+# 🏞️ Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition
 
 <a href="https://danielchyeh.github.io/Gen4Gen/"><img src="https://img.shields.io/static/v1?label=Project&message=Website&color=blue" height=20.5></a>
 <a href=""><img src="https://img.shields.io/static/v1?label=Paper&message=Link&color=green" height=20.5></a>
