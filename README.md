@@ -21,6 +21,7 @@ This repo is the official implementation of "**Gen4Gen: Generative Data Pipeline
 
 ## 📝 Updates
 
+>- [Feb 24 2024] [⚡️NEWS⚡️] Updated Gen4Gen: dataset creation pipeline code!" 
 >- [Feb 15 2024] Added demo video 🔥 for "How Gen4Gen Works" 
 
 ## 📬 How to Get Support?
