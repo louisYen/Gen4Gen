@@ -35,11 +35,8 @@ $ python s1_segment_foreground.py --src-dir ../data/s0_source_images --dest ../d
 ../data/s0_source_images
 └── cat_dog_houseplant_3objs
     ├── cat
-    │   ├── sergey-semin-agQhOHQipoE-unsplash.jpg
-    │   └── sergey-semin-bK_Ag4nNZ74-unsplash.jpg
+    │   └── sergey-semin-agQhOHQipoE-unsplash.jpg
     ├── dog
-    │   ├── Copy of 0.jpeg
-    │   ├── Copy of 3.jpeg
     │   ├── Copy of 5.jpeg
     │   └── Copy of 6.jpeg
     └── houseplant
@@ -72,14 +69,8 @@ We also provide segmented images and their masks with other iterations in `../da
 └── cat_dog_houseplant_3objs
     ├── cat
     │   ├── sergey-semin-agQhOHQipoE-unsplash_result_foreground_isnet.png
-    │   ├── sergey-semin-agQhOHQipoE-unsplash_result_mask_isnet.png
-    │   ├── sergey-semin-bK_Ag4nNZ74-unsplash_result_foreground_isnet.png
-    │   └── sergey-semin-bK_Ag4nNZ74-unsplash_result_mask_isnet.png
+    │   └── sergey-semin-agQhOHQipoE-unsplash_result_mask_isnet.png
     ├── dog
-    │   ├── Copy of 0_result_foreground_isnet.png
-    │   ├── Copy of 0_result_mask_isnet.png
-    │   ├── Copy of 3_result_foreground_isnet.png
-    │   ├── Copy of 3_result_mask_isnet.png
     │   ├── Copy of 5_result_foreground_isnet.png
     │   ├── Copy of 5_result_mask_isnet.png
     │   ├── Copy of 6_result_foreground_isnet.png
