@@ -571,8 +571,6 @@ def create_compositions(args: argparse.Namespace,
             llm_box_width *= box_canvas_ratio[obj_idx]
             llm_box_height *= box_canvas_ratio[obj_idx]
 
-            print(llm_box_width, llm_box_height)
-
             llm_box_width, llm_box_height = int(llm_box_width), int(llm_box_height)
 
             object_candidates = np.arange(len(object_dict[key]['item_paths']))
