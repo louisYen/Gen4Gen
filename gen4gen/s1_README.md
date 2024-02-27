@@ -50,7 +50,7 @@ $ python s1_segment_foreground.py --src-dir ../data/s0_source_images --dest ../d
     │   ├── ...
     │   └── [image_name_n.jpeg]
     ...
-    └── [oject_name_n]
+    └── [object_name_n]
 ```
 </details>
 
