@@ -66,24 +66,10 @@ $ python s2_llm_guided_object_composition.py \
 ```shell
 ../data/s2_object_compositions
 ├── 1_cat+dog+houseplant
-│   ├── img_000101.png
-│   ├── img_000102.png
-│   ├── img_000103.png
-│   ├── img_000104.png
-│   ├── img_000105.png
-│   ├── img_000106.png
-│   ├── img_000107.png
-│   ├── img_000108.png
-│   ├── img_000109.png
-│   ├── mask_000101.png
-│   ├── mask_000102.png
-│   ├── mask_000103.png
-│   ├── mask_000104.png
-│   ├── mask_000105.png
-│   ├── mask_000106.png
-│   ├── mask_000107.png
-│   ├── mask_000108.png
-│   └── mask_000109.png
+│   ├── img_xxxxx.png
+│   ...
+│   ├── mask_xxxxx.png
+│   ...
 ├── 1_cat+dog+houseplant_directory_classes.json
 ├── 1_cat+dog+houseplant_params.json
 └── 1_cat+dog+houseplant_report.csv
