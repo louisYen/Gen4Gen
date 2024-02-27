@@ -505,8 +505,8 @@ def create_compositions(args: argparse.Namespace,
         if invalid: continue
 
         min_box_area = np.min(all_boxes_area)
-        min_box_area_in_canvas: float = (H / 4) * (W / 4) if len(classes) <= 3 else \
-                                    (H / 6) * (W / 6) if len(classes) == 4 else (H / 8) * (W / 8)
+        min_box_area_in_canvas: float = (H / 5) * (W / 5) if len(args.objects) <= 3 else \
+                                    (H / 6) * (W / 6) if len(args.objects) == 4 else (H / 8) * (W / 8)
         if min_box_area < min_box_area_in_canvas:
             box_canvas_ratio: float = min_box_area_in_canvas / min_box_area
         else:
