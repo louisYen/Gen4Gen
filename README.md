@@ -41,11 +41,8 @@ Please prepare your personal images and put them under `data/s0_source_images`. 
 ../data/s0_source_images
 └── cat_dog_houseplant_3objs
     ├── cat
-    │   ├── sergey-semin-agQhOHQipoE-unsplash.jpg
-    │   └── sergey-semin-bK_Ag4nNZ74-unsplash.jpg
+    │   └── sergey-semin-agQhOHQipoE-unsplash.jpg
     ├── dog
-    │   ├── Copy of 0.jpeg
-    │   ├── Copy of 3.jpeg
     │   ├── Copy of 5.jpeg
     │   └── Copy of 6.jpeg
     └── houseplant
