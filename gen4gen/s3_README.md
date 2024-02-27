@@ -21,7 +21,7 @@ $ python s3_background_repainting.py \
 ```bash=
 $ python s3_background_repainting.py \
     --src-dir ../data/s2_object_compositions/1_cat+dog+houseplant \
-    --bkg-dir backgrounds/garden backgrounds/room \
+    --bkg-dir backgrounds/garden \
     --dest ../data/s3_background_repainting \
     --objects cat dog houseplant
 ```
