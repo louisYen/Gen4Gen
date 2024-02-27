@@ -41,6 +41,10 @@ $ python s2_llm_guided_object_composition.py \
 ```
 </details>
 
+### 🔖 Quick Note (After You Run!)
+-  ⚠️❗[**Warnings**] ⚠️❗ GPT might sometimes give bad layouts, before heading to step3-repainting, please check your `../data/s2_object_compositions` and remove bad-layout images.
+
+
 ---
 
 ### 🔠 Arguments
