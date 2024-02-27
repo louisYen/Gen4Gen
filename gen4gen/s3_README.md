@@ -73,16 +73,9 @@ $ python s3_background_repainting.py \
 ```shell
 backgrounds
 ├── garden
-│   ├── garden1.jpeg
-│   ├── garden2.jpeg
-│   └── garden3.jpeg
-└── grass
-    ├── christoph-schulz-aieCBdanNOE-unsplash.jpeg
-    ├── gaetano-cessati-d91HDmCta0k-unsplash.jpeg
-    ├── jan-vernarec-udGLWdHXj80-unsplash.jpeg
-    ├── meg-3hyfMlJJ8rU-unsplash.jpeg
-    ├── michael-kroul-F4Q3R1Zqg6M-unsplash.jpeg
-    └── s-tsuchiya-1wAmm_d2TDM-unsplash.jpeg
+    ├── garden1.jpeg
+    ├── garden2.jpeg
+    └── garden3.jpeg
 ```
 </details>
 
