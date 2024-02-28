@@ -229,7 +229,7 @@ class Text2Box(object):
                 coord[2] += coord[0] # get bottom-right x coordinate
                 coord[3] += coord[1] # get bottom-right y coordinate
 
-                # Normalized coordiante by image resolution of template (default: H=W=512)
+                # Normalized coordinate by image resolution of the template (default: H=W=512)
                 coord[[0, 2]] = np.divide(coord[[0, 2]], W)
                 coord[[1, 3]] = np.divide(coord[[1, 3]], H)
 
