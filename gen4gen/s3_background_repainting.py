@@ -294,7 +294,7 @@ def main():
 
                 # Use repainting refiner if defined
                 if with_refiner:
-                    image: List[PIL.Image] = refiner(
+                    images: List[PIL.Image] = refiner(
                         prompt=[caption] * args.batch_size,
                         negative_prompt=[neg_prompt] * args.batch_size,
                         image=images,
